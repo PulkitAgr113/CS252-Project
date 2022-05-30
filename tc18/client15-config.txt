@@ -1,0 +1,19 @@
+15 3277 4987
+7
+1 5041 8 6998 10 6341 11 3491 13 2496 14 2418 16 2746 16
+c.cpp
+e.cpp
+g.pdf
+f.pdf
+d.png
+b.pdf
+e.pdf
+g.png
+f.png
+a.png
+b.png
+c.png
+b.cpp
+d.cpp
+f.cpp
+a.cpp

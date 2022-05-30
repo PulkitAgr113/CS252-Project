@@ -1,0 +1,32 @@
+a.cpp
+b.cpp
+f.pdf
+g.cpp
+Connected to 1 with unique-ID 9265 on port 5041
+Connected to 2 with unique-ID 9549 on port 3573
+Connected to 3 with unique-ID 6553 on port 2227
+Connected to 4 with unique-ID 6228 on port 7831
+Connected to 5 with unique-ID 6341 on port 4795
+Connected to 7 with unique-ID 5028 on port 7099
+Connected to 8 with unique-ID 8126 on port 6998
+Connected to 11 with unique-ID 9281 on port 3491
+Connected to 12 with unique-ID 9827 on port 4124
+Connected to 15 with unique-ID 4987 on port 3277
+Connected to 16 with unique-ID 4661 on port 2746
+Connected to 17 with unique-ID 7065 on port 7415
+Found a.pdf at 4987 with MD5 d512a00e1ab20a87b6e8717dea408cf1 at depth 1
+Found a.png at 4661 with MD5 a9235fe0495f0e0da494b6ca07b3317b at depth 1
+Found b.pdf at 6228 with MD5 e5767b91b742bbdf217ffdba1aef9772 at depth 1
+Found b.png at 6228 with MD5 fe88fe4f3ee39090ab8932fbf85f3802 at depth 1
+Found c.cpp at 4661 with MD5 146dde2109e7675992895a514b8bb88e at depth 1
+Found c.pdf at 4987 with MD5 fbf5d4ecd951566c694a867e4e5008c6 at depth 1
+Found c.png at 7065 with MD5 9248155f72939ae20094ecbe87fec2d1 at depth 1
+Found d.cpp at 6553 with MD5 3d1d299d291b88d44da0c051a20beae7 at depth 1
+Found d.png at 9265 with MD5 4b3d93db5af33011573f0294e886306e at depth 1
+Found e.cpp at 4410 with MD5 3bdf650da3859ef08a4f6ec7957b1070 at depth 2
+Found e.pdf at 4661 with MD5 b4e594e062af4e6177c314d68fb1a81c at depth 1
+Found e.png at 4987 with MD5 54356af710c736b9c921ea3a87227c54 at depth 1
+Found f.cpp at 4661 with MD5 01aab5c87fce73c4034721440c30e3b6 at depth 1
+Found f.png at 4661 with MD5 30e048fbaf6400a7da9e81a81290bfbd at depth 1
+Found g.pdf at 5028 with MD5 5930e1b0ddf3f3dd6c042a6a5c67dcad at depth 1
+Found g.png at 6341 with MD5 e38971458e9df0f41c65eee14d95aa1d at depth 1

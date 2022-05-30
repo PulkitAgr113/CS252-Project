@@ -1,0 +1,20 @@
+7 7099 5028
+8
+1 5041 4 7831 5 4795 8 6998 9 7536 11 3491 14 2418 18 5848 17
+c.cpp
+e.cpp
+e.png
+f.pdf
+d.png
+b.pdf
+e.pdf
+g.png
+a.png
+b.png
+c.png
+c.pdf
+b.cpp
+g.cpp
+d.cpp
+f.cpp
+a.pdf

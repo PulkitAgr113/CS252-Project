@@ -1,0 +1,19 @@
+1 5041 9265
+12
+5 4795 6 3784 7 7099 8 6998 9 7536 10 6341 11 3491 12 4124 14 2418 15 3277 17 7415 18 5848 16
+c.cpp
+e.cpp
+e.png
+g.pdf
+f.pdf
+b.pdf
+e.pdf
+g.png
+f.png
+c.png
+c.pdf
+b.cpp
+g.cpp
+d.cpp
+f.cpp
+a.pdf

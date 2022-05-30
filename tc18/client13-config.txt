@@ -1,0 +1,19 @@
+13 2496 4511
+10
+2 3573 3 2227 5 4795 6 3784 8 6998 10 6341 12 4124 15 3277 17 7415 18 5848 16
+c.cpp
+e.cpp
+e.png
+g.pdf
+f.pdf
+e.pdf
+g.png
+a.png
+b.png
+c.png
+c.pdf
+g.cpp
+d.cpp
+f.cpp
+a.cpp
+a.pdf

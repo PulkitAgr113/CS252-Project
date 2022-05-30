@@ -1,0 +1,20 @@
+2 3573 9549
+4
+6 3784 11 3491 13 2496 14 2418 17
+c.cpp
+e.cpp
+g.pdf
+d.png
+b.pdf
+e.pdf
+g.png
+f.png
+b.png
+c.png
+c.pdf
+b.cpp
+g.cpp
+d.cpp
+f.cpp
+a.cpp
+a.pdf

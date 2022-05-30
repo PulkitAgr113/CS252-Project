@@ -1,0 +1,30 @@
+a.pdf
+a.png
+b.pdf
+g.png
+Connected to 1 with unique-ID 9265 on port 5041
+Connected to 4 with unique-ID 6228 on port 7831
+Connected to 6 with unique-ID 2784 on port 3784
+Connected to 7 with unique-ID 5028 on port 7099
+Connected to 9 with unique-ID 8603 on port 7536
+Connected to 10 with unique-ID 4410 on port 6341
+Connected to 13 with unique-ID 4511 on port 2496
+Connected to 14 with unique-ID 1785 on port 2418
+Connected to 17 with unique-ID 7065 on port 7415
+Connected to 18 with unique-ID 8260 on port 5848
+Found a.cpp at 1785 with MD5 0 at depth 1
+Found b.cpp at 1785 with MD5 0 at depth 1
+Found b.png at 2784 with MD5 0 at depth 1
+Found c.cpp at 4410 with MD5 0 at depth 1
+Found c.pdf at 2784 with MD5 0 at depth 1
+Found c.png at 7065 with MD5 0 at depth 1
+Found d.cpp at 8603 with MD5 0 at depth 1
+Found d.png at 4511 with MD5 0 at depth 1
+Found e.cpp at 4410 with MD5 0 at depth 1
+Found e.pdf at 0 with MD5 0 at depth 0
+Found e.png at 4410 with MD5 0 at depth 1
+Found f.cpp at 2784 with MD5 0 at depth 1
+Found f.pdf at 1785 with MD5 0 at depth 1
+Found f.png at 4511 with MD5 0 at depth 1
+Found g.cpp at 1785 with MD5 0 at depth 1
+Found g.pdf at 4410 with MD5 0 at depth 1

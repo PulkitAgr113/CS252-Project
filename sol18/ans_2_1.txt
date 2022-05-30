@@ -1,0 +1,7 @@
+a.png
+e.png
+f.pdf
+Connected to 6 with unique-ID 2784 on port 3784
+Connected to 11 with unique-ID 9281 on port 3491
+Connected to 13 with unique-ID 4511 on port 2496
+Connected to 14 with unique-ID 1785 on port 2418

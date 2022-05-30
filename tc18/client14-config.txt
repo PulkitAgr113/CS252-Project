@@ -1,0 +1,19 @@
+14 2418 1785
+12
+1 5041 2 3573 3 2227 4 7831 5 4795 7 7099 8 6998 11 3491 12 4124 15 3277 16 2746 17 7415 16
+c.cpp
+e.cpp
+e.png
+g.pdf
+d.png
+b.pdf
+e.pdf
+g.png
+f.png
+a.png
+b.png
+c.png
+c.pdf
+d.cpp
+f.cpp
+a.pdf
